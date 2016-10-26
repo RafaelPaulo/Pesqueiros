@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pesqueiros</string>
+    <string name="required_field_message">Compo obrigatório.</string>
+</resources>
